@@ -1,0 +1,236 @@
+error	 2023-01-06 01:44:53 	 route not found!
+error	 2023-01-06 01:45:55 	 route not found!
+error	 2023-01-06 01:45:57 	 route not found!
+error	 2023-01-06 02:59:33 	 route not found!
+error	 2023-01-06 03:48:36 	 route not found!
+error	 2023-01-06 04:16:31 	 route not found!
+error	 2023-01-06 04:26:31 	 route not found!
+error	 2023-01-06 05:44:32 	 route not found!
+error	 2023-01-06 06:19:53 	 route not found!
+error	 2023-01-06 06:20:17 	 route not found!
+error	 2023-01-06 06:59:35 	 route not found!
+error	 2023-01-06 08:16:58 	 route not found!
+error	 2023-01-06 08:19:13 	 route not found!
+error	 2023-01-00 10:08:56 	 route not found!
+error	 2023-01-00 10:12:05 	 Cannot populate path `customer` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-00 11:19:55 	 Cast to ObjectId failed for value "7313" (type string) at path "account" for model "operations"
+error	 2023-01-00 11:22:45 	 operations validation failed: account: Cast to Number failed for value "63c3c5c800528c61b525bcf2" (type string) at path "account"
+error	 2023-01-00 11:23:38 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:23:50 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:23:50 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:24:45 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:24:45 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:24:52 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:24:52 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:02 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:02 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:04 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:04 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:09 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:09 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:26 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:25:54 	 Cast to ObjectId failed for value "4116" (type number) at path "_id" for model "accounts"
+error	 2023-01-00 11:30:02 	 operations validation failed: account: Cast to ObjectId failed for value "7313" (type number) at path "account" because of "BSONTypeError"
+error	 2023-01-03 06:36:38 	 users validation failed: last_name: last name too short, email: email too long
+error	 2023-01-03 06:39:19 	 route not found!
+error	 2023-01-03 06:39:28 	 route not found!
+error	 2023-01-03 06:39:54 	 Cast to ObjectId failed for value "316536424" (type string) at path "_id" for model "users"
+error	 2023-01-03 06:44:25 	 route not found!
+error	 2023-01-03 06:44:38 	 users validation failed: _id: Cast to ObjectId failed for value "316536424" (type number) at path "_id" because of "BSONTypeError"
+error	 2023-01-03 06:53:24 	 E11000 duplicate key error collection: test.users index: id_number_1 dup key: { id_number: 316536424 }
+error	 2023-01-03 06:53:54 	 Cast to ObjectId failed for value "{ id_number: '316536424' }" (type Object) at path "_id" for model "users"
+error	 2023-01-03 06:54:48 	 Cast to ObjectId failed for value "{ id_number: '316536424' }" (type Object) at path "_id" for model "users"
+error	 2023-01-04 11:09:01 	 E11000 duplicate key error collection: test.categories index: name_1 dup key: { name: "Alcohol" }
+error	 2023-01-04 11:13:11 	 route not found!
+error	 2023-01-04 11:13:25 	 items validation failed: categoryId: Cast to ObjectId failed for value "63d2432ace2cb13fe4ec9f3" (type string) at path "categoryId" because of "BSONTypeError"
+error	 2023-01-04 11:13:35 	 E11000 duplicate key error collection: test.items index: name_1 dup key: { name: "Wine" }
+error	 2023-01-04 11:14:09 	 Cannot populate path `carts` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 11:14:41 	 Cannot populate path `carts` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 11:17:04 	 Cannot populate path `categories` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 11:20:54 	 Cannot populate path `carts` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 11:21:16 	 Cannot populate path `carts` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 11:27:21 	 Expected double-quoted property name in JSON at position 67
+error	 2023-01-04 11:30:27 	 Cannot populate path `users` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 11:36:23 	 Cast to ObjectId failed for value "316536424" (type string) at path "userId" for model "carts"
+error	 2023-01-04 11:54:04 	 Cast to ObjectId failed for value "316536424" (type number) at path "userId" for model "carts"
+error	 2023-01-04 12:03:59 	 Cast to ObjectId failed for value "NaN" (type number) at path "userId" for model "carts"
+error	 2023-01-04 12:23:38 	 Cast to ObjectId failed for value "316536424" (type number) at path "_id" for model "users"
+error	 2023-01-04 01:33:25 	 Cast to Number failed for value "63d15e809f7e2b6cbde0215b" (type string) at path "id_number" for model "users"
+error	 2023-01-04 01:34:47 	 document must have an _id before saving
+error	 2023-01-04 01:35:29 	 document must have an _id before saving
+error	 2023-01-04 01:36:01 	 document must have an _id before saving
+error	 2023-01-04 01:36:25 	 Cast to ObjectId failed for value "316536424" (type number) at path "_id" for model "users"
+error	 2023-01-04 01:37:41 	 document must have an _id before saving
+error	 2023-01-04 01:43:37 	 E11000 duplicate key error collection: test.users index: id_number_1 dup key: { id_number: 316536424 }
+error	 2023-01-04 01:43:55 	 Cast to ObjectId failed for value "316536424" (type number) at path "_id" for model "users"
+error	 2023-01-04 01:47:08 	 Cast to ObjectId failed for value "316536424" (type number) at path "_id" for model "users"
+error	 2023-01-04 01:48:36 	 Cast to ObjectId failed for value "316536424" (type number) at path "_id" for model "users"
+error	 2023-01-04 01:58:01 	 Cast to ObjectId failed for value "316536424" (type number) at path "_id" for model "users"
+error	 2023-01-04 02:28:01 	 Cannot populate path `userId` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-04 02:30:27 	 carts validation failed: userId: missing user
+error	 2023-01-04 02:33:18 	 Cast to ObjectId failed for value "NaN" (type number) at path "userId" for model "carts"
+error	 2023-01-04 02:45:57 	 Cannot populate path `carts` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error	 2023-01-01 11:51:19 	 E11000 duplicate key error collection: test.items index: name_1 dup key: { name: "Wine" }
+error	 2023-01-01 11:53:07 	 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "items"
+error	 2023-01-01 11:57:46 	 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "items"
+error	 2023-01-01 11:58:55 	 Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "items"
+error	 2023-01-01 12:35:13 	 items validation failed: image: image price, price: missing price, name: missing operation type, categoryId: missing category
+error	 2023-01-01 12:36:34 	 users validation failed: role: missing role
+error	 2023-01-01 12:45:44 	 E11000 duplicate key error collection: test.users index: id_number_1 dup key: { id_number: 316536424 }
+error	 2023-02-03 10:55:16 	 items validation failed: name: name too long
+error	 2023-02-04 11:20:34 	 carts validation failed: userId: missing user
+error	 2023-02-04 11:22:26 	 carts validation failed: userId: missing user
+error	 2023-02-04 11:25:36 	 carts validation failed: userId: missing user
+error	 2023-02-04 11:28:22 	 carts validation failed: userId: missing user
+error	 2023-02-04 02:19:55 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 02:20:50 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 02:42:43 	 route not found!
+error	 2023-02-04 02:44:19 	 route not found!
+error	 2023-02-04 05:57:42 	 Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "carts"
+error	 2023-02-04 06:13:44 	 Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "carts"
+error	 2023-02-04 06:15:47 	 Cast to ObjectId failed for value "[object Object]" (type string) at path "_id" for model "carts"
+error	 2023-02-04 09:39:21 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 09:39:33 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 09:39:36 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 09:41:58 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 09:42:07 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-04 09:43:23 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-06 05:12:24 	 route not found!
+error	 2023-02-06 05:14:33 	 route not found!
+error	 2023-02-06 05:15:37 	 orders validation failed: delivery: missing delivery date, street: missing street, city: missing city
+error	 2023-02-06 05:20:15 	 orders validation failed: delivery: missing delivery date, street: missing street, city: missing city
+error	 2023-02-06 05:54:01 	 orders validation failed: city: missing city, street: missing street, delivery: missing delivery date, digits: missing 4 digits
+error	 2023-02-06 05:56:49 	 orders validation failed: city: missing city, street: missing street, delivery: missing delivery date, digits: missing 4 digits
+error	 2023-02-06 05:58:00 	 orders validation failed: city: missing city, street: missing street, delivery: missing delivery date, digits: missing 4 digits
+error	 2023-02-06 05:58:50 	 orders validation failed: city: missing city, street: missing street, delivery: missing delivery date, digits: missing 4 digits
+error	 2023-02-06 07:24:20 	 route not found!
+error	 2023-02-06 07:24:41 	 route not found!
+error	 2023-02-06 07:25:15 	 route not found!
+error	 2023-02-06 07:25:44 	 route not found!
+error	 2023-02-06 07:25:59 	 route not found!
+error	 2023-02-06 07:26:33 	 route not found!
+error	 2023-02-06 07:26:50 	 route not found!
+error	 2023-02-06 07:27:27 	 route not found!
+error	 2023-02-00 12:42:22 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:42:31 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:42:42 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 01:48:12 	 route not found!
+error	 2023-02-00 12:26:26 	 Cast to ObjectId failed for value "[object Object]" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:36:09 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:38:22 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:39:06 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:40:45 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:41:25 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:42:07 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:44:19 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:44:43 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:46:01 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 12:58:46 	 Cast to ObjectId failed for value "[object Object]" (type string) at path "userId" for model "carts"
+error	 2023-02-00 01:00:42 	 Cast to ObjectId failed for value "[object Object]" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:55:51 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:57:21 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:57:34 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:57:38 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:57:39 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:58:04 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:58:13 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:58:22 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:58:50 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:58:57 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:58:59 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 03:59:06 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-00 04:00:08 	 Cast to ObjectId failed for value "undefined" (type string) at path "userId" for model "carts"
+error	 2023-02-01 09:32:13 	 wrong details !
+error	 2023-02-01 09:33:00 	 wrong details !
+error	 2023-02-01 09:34:21 	 wrong details !
+error	 2023-02-01 09:35:16 	 wrong details !
+error	 2023-02-01 09:35:57 	 route not found!
+error	 2023-02-01 11:50:38 	 wrong details !
+error	 2023-02-01 12:24:58 	 users validation failed: id_number: missing account number
+error	 2023-02-01 12:25:25 	 users validation failed: id_number: missing account number
+error	 2023-02-01 12:39:53 	 user not found
+error	 2023-02-01 12:41:04 	 user not found
+error	 2023-02-01 12:43:05 	 user not found
+error	 2023-02-01 12:45:08 	 user not found
+error	 2023-02-01 12:47:10 	 user not found
+error	 2023-02-01 12:49:06 	 user not found
+error	 2023-02-01 12:50:50 	 user not found
+error	 2023-02-01 12:59:01 	 wrong details !
+error	 2023-02-01 12:59:45 	 user not found
+error	 2023-02-01 01:06:25 	 user not found
+error	 2023-02-01 01:07:53 	 user not found
+error	 2023-02-01 03:19:47 	 user not found
+error	 2023-02-01 03:20:35 	 user not found
+error	 2023-02-01 03:24:00 	 user not found
+error	 2023-02-01 03:26:01 	 user not found
+error	 2023-02-01 04:55:27 	 Cast to ObjectId failed for value "Milk & Eggs" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 04:55:37 	 Cast to ObjectId failed for value "Alcohol" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 04:56:26 	 Cast to ObjectId failed for value "Alcohol" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 04:56:33 	 Cast to ObjectId failed for value "Vegetables" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:21 	 Cast to ObjectId failed for value "Vegetables" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:23 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:30 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:49 	 Cast to ObjectId failed for value "Alcohol" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:50 	 Cast to ObjectId failed for value "Vegetables" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:50 	 Cast to ObjectId failed for value "Fruits" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:00:51 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:01:44 	 route not found!
+error	 2023-02-01 05:02:09 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:05:57 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:06:06 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 05:06:07 	 Cast to ObjectId failed for value "Drinks" (type string) at path "categoryId" for model "items"
+error	 2023-02-01 08:42:08 	 orders validation failed: digits: missing 4 digits
+error	 2023-02-01 08:54:19 	 orders validation failed: digits: missing 4 digits
+error	 2023-02-01 08:56:01 	 orders validation failed: digits: missing 4 digits
+error	 2023-02-01 09:24:09 	 route not found!
+error	 2023-02-01 10:09:49 	 route not found!
+error	 2023-02-01 10:10:28 	 route not found!
+error	 2023-02-01 10:10:52 	 route not found!
+error	 2023-02-01 10:11:50 	 route not found!
+error	 2023-02-01 10:12:03 	 route not found!
+error	 2023-02-02 02:33:21 	 wrong details !
+error	 2023-02-02 02:50:54 	 wrong details !
+error	 2023-02-03 04:43:52 	 wrong details !
+error	 2023-02-03 04:44:54 	 user not found
+error	 2023-02-03 04:45:22 	 user not found
+error	 2023-02-04 12:36:38 	 wrong details !
+error	 2023-02-04 12:36:45 	 user not found
+error	 2023-02-04 12:39:14 	 user not found
+error	 2023-02-04 12:39:24 	 E11000 duplicate key error collection: test.users index: email_1 dup key: { email: "maya@gmail.com" }
+error	 2023-02-04 12:39:51 	 user not found
+error	 2023-02-04 12:42:54 	 user not found
+error	 2023-02-04 03:11:55 	 user not found
+error	 2023-02-04 03:13:42 	 user not found
+error	 2023-02-04 03:16:17 	 user not found
+error	 2023-02-04 03:23:33 	 user not found
+error	 2023-02-04 03:57:18 	 wrong details !
+error	 2023-02-04 03:57:27 	 user not found
+error	 2023-02-04 04:15:42 	 user not found
+error	 2023-02-04 06:27:26 	 wrong details !
+error	 2023-02-04 06:27:37 	 user not found
+error	 2023-02-06 12:41:32 	 route not found!
+error	 2023-02-06 12:42:56 	 route not found!
+error	 2023-02-06 12:43:24 	 route not found!
+error	 2023-02-06 12:57:03 	 route not found!
+error	 2023-02-06 12:57:03 	 route not found!
+error	 2023-02-06 12:57:57 	 route not found!
+error	 2023-02-06 12:57:57 	 route not found!
+error	 2023-02-06 01:01:44 	 route not found!
+error	 2023-02-06 01:01:44 	 route not found!
+error	 2023-02-06 01:02:25 	 route not found!
+error	 2023-02-06 01:02:25 	 No user found
+error	 2023-02-06 01:03:44 	 No user found
+error	 2023-02-06 01:03:44 	 No user found
+error	 2023-02-06 01:18:38 	 No user found
+error	 2023-02-06 01:24:21 	 Email is already exist
+error	 2023-02-06 01:25:28 	 Email is already exist
+error	 2023-02-06 01:25:28 	 Id is already exist
+error	 2023-02-06 01:28:56 	 Id is already exist
+error	 2023-02-06 01:29:56 	 Id is already exist
+error	 2023-02-06 01:30:44 	 Id is already exist
+error	 2023-02-06 01:31:15 	 Id is already exist
+error	 2023-02-06 01:34:38 	 Id is already exist
+error	 2023-02-06 01:37:31 	 Id is already exist
+error	 2023-02-06 01:37:37 	 Id is already exist
+error	 2023-02-06 01:37:45 	 Email is already exist
+error	 2023-08-03 11:31:26 	 Email is already exist

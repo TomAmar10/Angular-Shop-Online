@@ -1,0 +1,22 @@
+<div class="login-page-card details">
+  <ng-image-slider
+    [images]="imageObject"
+    #nav
+    [animationSpeed]="speed"
+    [imageSize]="size"
+    [autoSlide]="4"
+    [infinite]="true"
+  >
+  </ng-image-slider>
+  <div class="loading-msg" *ngIf="isLoading">
+    <div class="spinner-border text-primary" role="status"></div>
+    <span>Please wait 15-30 seconds for initial loading (App is hosted for free).</span>
+  </div>
+  <div *ngIf="!isLoading">
+    <p>Available products in our store : {{ (items$ | async).length }}</p>
+    <p>Orders submitted : {{ ordersCount }}</p>
+  </div>
+  <div class="notification">
+    <h3>{{ user ? message : "Hello Guest !" }}</h3>
+  </div>
+</div>

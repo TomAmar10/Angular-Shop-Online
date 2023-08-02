@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "esModuleInterop": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "allowJs": true
+  }
+}
+
